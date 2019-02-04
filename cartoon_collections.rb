@@ -17,4 +17,4 @@ def find_the_cheese(snacks)
   snacks.find |item|
   cheese_types.include?(item)
 end
-end
+
